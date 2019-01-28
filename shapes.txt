@@ -1,6 +1,8 @@
 circle
 oval
+<<<<<<< HEAD
 rectangle
 second try Jan26 
-seems I fixed a bug
-testing again
+seems I fixed a bug=======
+master branch hahah
+>>>>>>> master
